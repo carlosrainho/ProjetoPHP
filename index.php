@@ -20,7 +20,7 @@
         ?>
         
         <div class="welcome">
-            <h2>Olá, <?php echo $nome; ?>!</h2>
+            <h2>Olé', <?php echo $nome; ?>!</h2>
         </div>
         
         <form method="GET" action="">
