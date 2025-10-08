@@ -22,6 +22,10 @@
         <div class="welcome">
             <h2>Olé', <?php echo $nome; ?>!</h2>
         </div>
+
+        div class="welcome">
+            <h2>Olé', <?php echo $nome; ?>!</h2>
+        </div>
         
         <form method="GET" action="">
             <input type="text" name="nome" placeholder="Digite seu nome">
